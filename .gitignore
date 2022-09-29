@@ -12,7 +12,6 @@ bin/
 
 # media
 *.mov
-*.png
 
 # Python
 __pycache__/
@@ -22,7 +21,6 @@ __pycache__/
 *.egg-info/
 
 # experiment_files
-*.mp4
 *exp_local*
 algos/gcsl/exp_local/*
 *.xml
